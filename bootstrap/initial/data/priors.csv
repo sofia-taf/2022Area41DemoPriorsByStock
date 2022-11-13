@@ -1,2 +1,16 @@
 stock,initial_state, initial_state_cv, terminal_state, terminal_state_cv
-All,0.75,0.1,0.36,0.28
+Cynoscion guatucupa,0.75,0.1,0.43,0.31
+Brachyura,0.75,0.1,0.3,0.31
+Umbrina canosai,0.75,0.1,0.2,0.31
+Perciformes,0.75,0.1,0.55,0.31
+Pomatomus saltatrix,0.75,0.1,0.54,0.31
+Cynoscion striatus,0.75,0.1,0.2,0.31
+Rhodophyta,0.75,0.1,0.35,0.31
+Paralichthys spp,0.75,0.1,0.43,0.31
+Lutjanus purpureus,0.75,0.1,0.1,0.31
+Panulirus argus,0.75,0.1,0.5,0.31
+Engraulidae,0.75,0.1,0.5,0.31
+Percophis brasiliensis,0.75,0.1,0.22,0.31
+Acanthistius brasilianus,0.75,0.1,0.24,0.31
+Arctocephalus australis,0.75,0.1,0.43,0.31
+Pagrus pagrus,0.75,0.1,0.4,0.31
