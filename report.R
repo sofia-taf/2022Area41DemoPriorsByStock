@@ -60,6 +60,9 @@ p1 <- plotCat(stock.timeseries, method="effEdepP", cats=3, type="count")
 p2 <- plotCat(stock.timeseries, method="effEdepP", cats=3, type="stock")
 ggarrange(p1, p2, ncol=1)
 dev.off()
+taf.png("status_proportion", width=1800, height=1000)
+plotCat(stock.timeseries, method="effEdepP", cats=3, type="prop")
+dev.off()
 
 ## Overlay B/Bmsy time series of all stocks in a single plot
 ggplot(stock.timeseries, aes(x=year, y=bbmsy, colour=stock, group=stock)) +
